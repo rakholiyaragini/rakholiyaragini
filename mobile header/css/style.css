@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --fonts:'inter';
+    --sans-serif-font: 'montserrat';
+}
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    width: 150px;
+    height: 60px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: var(--fonts);
+}
+
+.mobile-menu {
+    display: none;
+}
