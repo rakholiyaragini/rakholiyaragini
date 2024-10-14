@@ -5,9 +5,13 @@ I am a passionate backend development student with a strong interest in building
 
 Technologies I Work With
 **Frontend:** HTML, CSS, SASS, JQuery, JavaScript, EJS, Bootstrap, responsive ,  Tailwind CSS
+
 **Frameworks:** Node.js, Express.js, Django, etc.
+
 **Languages:** JavaScript , C , C++.
+
 **Databases:** MongoDB
+
 **Other Tools:** Git, GitHub , Multer, Mongoose
 
 ## 🌱 I’m currently learning
