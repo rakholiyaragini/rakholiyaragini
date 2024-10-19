@@ -4,6 +4,7 @@ About Me
 I am a passionate backend development student with a strong interest in building scalable and efficient server-side applications. I enjoy solving complex problems and continuously learning about new backend technologies and frameworks.
 
 Technologies I Work With
+
 **Frontend:** HTML, CSS, SASS, JQuery, JavaScript, EJS, Bootstrap, responsive ,  Tailwind CSS
 
 **Frameworks:** Node.js, Express.js, Django, etc.
