@@ -2,7 +2,8 @@
 ## Hello, I'm ragini rakholiya 👋
 
 ## About Me
-I am a passionate backend development student with a strong interest in building scalable and efficient server-side applications. I enjoy solving complex problems and continuously learning about new backend technologies and frameworks.
+
+I am a passionate backend developer with a strong interest in building scalable and efficient server-side applications. I enjoy solving complex problems and continuously learning about new backend technologies and frameworks. 
 
 ## Technologies I Work With
 
