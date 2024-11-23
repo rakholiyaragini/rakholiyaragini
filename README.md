@@ -1,24 +1,25 @@
 
-Hello, I'm ragini rakholiya 👋
-About Me
+## Hello, I'm ragini rakholiya 👋
+
+## About Me
 I am a passionate backend development student with a strong interest in building scalable and efficient server-side applications. I enjoy solving complex problems and continuously learning about new backend technologies and frameworks.
 
-Technologies I Work With
+## Technologies I Work With
 
 **Frontend:** HTML, CSS, SASS, JQuery, JavaScript, EJS, Bootstrap, responsive ,  Tailwind CSS
 
-**Frameworks:** Node.js, Express.js, Django, etc.
+**Frameworks:** Passport.js , etc.
+
+**Backend**:** :- Node.js , Express.js
 
 **Languages:** JavaScript , C , C++.
 
-**Databases:** MongoDB
+**Databases:** MongoDB , PostgreSQL
 
-**Other Tools:** Git, GitHub , Multer, Mongoose
+**Tools:**  Git, GitHub , Postman , MongoDB Atlas & Compass , npm
 
-## 🌱 I’m currently learning
-- Node.js
-Interests
-Backend development
+**Other:** Multer , mongoose , Responsive Web Page , RESTful APIs
+
 ## 📫 Get in Touch
 
 - **Email:** [raginirakholiya123@gmail.com]
