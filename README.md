@@ -21,6 +21,11 @@ I am a passionate backend developer with a strong interest in building scalable 
 
 **Other:** Multer , mongoose , Responsive Web Page , RESTful APIs
 
+## Know More About Me
+[Ragini Rakholiya Resume.pdf](https://github.com/user-attachments/files/17878032/Ragini.Rakholiya.Resume.pdf)
+
+
+
 ## 📫 Get in Touch
 
 - **Email:** [raginirakholiya123@gmail.com]
